@@ -1,0 +1,5 @@
+-- Made By DavidKRSZBoy On Roblox
+--  Have Fun :D
+-- #DavidKRSZBoy
+------------------------ Here Script
+loadstring(game:HttpGet("https://pastebin.com/raw/z6BVksNb"))()
